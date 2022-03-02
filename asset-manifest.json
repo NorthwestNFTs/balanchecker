@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/balanchecker/static/css/main.d84a3976.chunk.css",
-    "main.js": "/balanchecker/static/js/main.b8f15aa0.chunk.js",
+    "main.js": "/balanchecker/static/js/main.6ff624d2.chunk.js",
     "runtime-main.js": "/balanchecker/static/js/runtime-main.ef111f1c.js",
     "static/js/2.6d12354d.chunk.js": "/balanchecker/static/js/2.6d12354d.chunk.js",
     "index.html": "/balanchecker/index.html",
@@ -11,6 +11,6 @@
     "static/js/runtime-main.ef111f1c.js",
     "static/js/2.6d12354d.chunk.js",
     "static/css/main.d84a3976.chunk.css",
-    "static/js/main.b8f15aa0.chunk.js"
+    "static/js/main.6ff624d2.chunk.js"
   ]
 }
