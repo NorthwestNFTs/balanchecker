@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/balanchecker/static/css/main.4540e105.chunk.css",
-    "main.js": "/balanchecker/static/js/main.7c79b227.chunk.js",
-    "runtime-main.js": "/balanchecker/static/js/runtime-main.e4971863.js",
-    "static/js/2.0659297b.chunk.js": "/balanchecker/static/js/2.0659297b.chunk.js",
+    "main.css": "/balanchecker/static/css/main.d84a3976.chunk.css",
+    "main.js": "/balanchecker/static/js/main.b8f15aa0.chunk.js",
+    "runtime-main.js": "/balanchecker/static/js/runtime-main.ef111f1c.js",
+    "static/js/2.6d12354d.chunk.js": "/balanchecker/static/js/2.6d12354d.chunk.js",
     "index.html": "/balanchecker/index.html",
-    "static/js/2.0659297b.chunk.js.LICENSE.txt": "/balanchecker/static/js/2.0659297b.chunk.js.LICENSE.txt"
+    "static/js/2.6d12354d.chunk.js.LICENSE.txt": "/balanchecker/static/js/2.6d12354d.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.e4971863.js",
-    "static/js/2.0659297b.chunk.js",
-    "static/css/main.4540e105.chunk.css",
-    "static/js/main.7c79b227.chunk.js"
+    "static/js/runtime-main.ef111f1c.js",
+    "static/js/2.6d12354d.chunk.js",
+    "static/css/main.d84a3976.chunk.css",
+    "static/js/main.b8f15aa0.chunk.js"
   ]
 }
